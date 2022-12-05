@@ -12,3 +12,18 @@ Enfin, dans le but d'être transparent pour les décisions d'octroi de crédit d
 * Le code générant le dashboard
 * Le code permettant de déployer le modèle sous forme d'API 
 
+**Packages utilisés:**
+
+* Pandas Version: 1.4.3
+* NumPy Version: 1.21.5 
+* Matplotlib Version: 3.5.1
+* Plotly.express
+* Plotly.graph_objects
+* Seaborn Version: 0.11.2
+* Pickle
+* Lightgbm
+* Shap
+* Scikit-Learn
+* Streamlit 
+* Streamlit_echarts
+
