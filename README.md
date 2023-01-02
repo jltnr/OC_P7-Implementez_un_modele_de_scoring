@@ -20,12 +20,10 @@ Enfin, dans le but d'être transparent pour les décisions d'octroi de crédit d
 * Pandas Version: 1.4.3
 * NumPy Version: 1.21.5 
 * Matplotlib Version: 3.5.1
-* Plotly.express
 * Seaborn Version: 0.11.2
-* Pickle
-* Lightgbm
-* Shap
-* Scikit-Learn
+* Lightgbm Version: 3.3.2
+* Shap Version: 0.41.0
+* Scikit-Learn Version: 1.1.1
 * Streamlit Version: 1.14.0
 
 
